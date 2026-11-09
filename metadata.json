@@ -1,0 +1,6 @@
+{
+  "name": "ꜱᴀꜱᴜᴋᴇX WhatsApp Bot",
+  "description": "Multi-device WhatsApp automation bot by ꜰʀsᴀsᴋᴇ with view-once reveal to owner DM, full stylized UI menus, and autoreaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
